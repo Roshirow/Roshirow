@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Roshirow
-- 👀 I’m interested in web design with front-end development being my main focus.
-- 🌱 I’m currently learning more and more javascript coding.
+- 👋 Hi, I’m Rochell Hatfield
+- 👀 I’m interested in web development and web design with a focus on user experience and user interface design.
 - 📫 How to reach me: rochellhatfield@gmail.com OR https://hatfieldrm.com/
 
 <!---
